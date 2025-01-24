@@ -1,2 +1,10 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 我目前是西华大学理学院的一名讲师，主要研究方向为材料以及团簇的模拟计算（DFT和分子动力学），以及机器学习在材料科学中的应用。
